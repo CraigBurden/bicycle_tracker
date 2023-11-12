@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "bicycle_tracker")(type "KiCad")(uri "${KIPRJMOD}/bicycle_tracker.kicad_sym")(options "")(descr ""))
+  (lib (name "plentify_symbols")(type "KiCad")(uri "/home/craig/Workspace/Plentify/plentify_kicad_library/plentify_symbols.kicad_sym")(options "")(descr ""))
+)
