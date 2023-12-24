@@ -475,6 +475,10 @@
     [
       "4cc8877d-48e7-48a2-962e-0215bd691ee6",
       ""
+    ],
+    [
+      "ffa99745-a953-4be1-a53d-78d409e88572",
+      "LoRa Radio"
     ]
   ],
   "text_variables": {}
