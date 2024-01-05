@@ -477,8 +477,20 @@
       ""
     ],
     [
-      "ffa99745-a953-4be1-a53d-78d409e88572",
-      "LoRa Radio"
+      "2b65d3a4-6ff0-483c-a71a-3ff7ff68c17f",
+      "USBC"
+    ],
+    [
+      "93d04274-d7c6-43fc-a34d-d8aa10efc585",
+      "PMIC"
+    ],
+    [
+      "8b782334-054e-43b3-bf35-498bb26f6d15",
+      "LoRa"
+    ],
+    [
+      "b6a4e8ac-fd61-426d-9a8b-5c1100e4cb9c",
+      "MCU"
     ]
   ],
   "text_variables": {}
